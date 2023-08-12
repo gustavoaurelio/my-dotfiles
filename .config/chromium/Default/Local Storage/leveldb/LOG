@@ -1,0 +1,6 @@
+2023/08/11-19:52:53.388 3 Reusing MANIFEST /home/gustavo/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/11-19:52:53.389 3 Recovering log #79
+2023/08/11-19:52:53.389 3 Reusing old log /home/gustavo/.config/chromium/Default/Local Storage/leveldb/000079.log 
+2023/08/12-00:51:28.071 3 Level-0 table #84: started
+2023/08/12-00:51:28.073 3 Level-0 table #84: 17031 bytes OK
+2023/08/12-00:51:28.075 3 Delete type=0 #79

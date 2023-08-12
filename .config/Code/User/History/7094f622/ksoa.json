@@ -1,0 +1,9 @@
+{
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+    "editor.fontFamily": "'Hack JBM Ligatured', monospace",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "'Hack JBM Ligatured', monospace",
+    "tabnine.experimentalAutoImports": true
+}

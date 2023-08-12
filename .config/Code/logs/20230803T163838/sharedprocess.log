@@ -1,0 +1,23 @@
+2023-08-03 16:38:43.345 [info] Getting Manifest... ms-python.vscode-pylance
+2023-08-03 16:38:43.426 [info] Installing extension: ms-python.vscode-pylance
+2023-08-03 16:38:44.034 [info] Getting Manifest... ms-python.python
+2023-08-03 16:38:45.098 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-08-03 16:38:46.893 [info] Extracted extension to /home/gustavo/.vscode/extensions/.6db877e0-3da0-45a0-9b9b-44db8ba490fe: ms-python.vscode-pylance
+2023-08-03 16:38:46.896 [info] Renamed to /home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2023.8.10
+2023-08-03 16:38:46.897 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-08-03 16:38:46.902 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-08-03 16:38:46.904 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.7.40
+2023-08-03 16:38:50.775 [info] Getting Manifest... usernamehw.errorlens
+2023-08-03 16:38:50.779 [info] Installing extension: usernamehw.errorlens
+2023-08-03 16:38:51.179 [warning] Extension signature verification failed with error 'UnknownError': usernamehw.errorlens
+2023-08-03 16:38:51.190 [info] Extracted extension to /home/gustavo/.vscode/extensions/.a16d9604-401d-4f88-a2a5-a72ab7eb7e2d: usernamehw.errorlens
+2023-08-03 16:38:51.193 [info] Renamed to /home/gustavo/.vscode/extensions/usernamehw.errorlens-3.12.0
+2023-08-03 16:38:51.194 [info] Extracting extension completed. usernamehw.errorlens
+2023-08-03 16:38:51.199 [info] Extension installed successfully: usernamehw.errorlens
+2023-08-03 16:56:56.520 [info] Getting Manifest... ttoowa.in-your-face-incredible
+2023-08-03 16:56:56.524 [info] Installing extension: ttoowa.in-your-face-incredible
+2023-08-03 16:56:58.023 [warning] Extension signature verification failed with error 'UnknownError': ttoowa.in-your-face-incredible
+2023-08-03 16:56:58.217 [info] Extracted extension to /home/gustavo/.vscode/extensions/.7a882dba-25c6-48ff-b4ed-8be0bc958952: ttoowa.in-your-face-incredible
+2023-08-03 16:56:58.219 [info] Renamed to /home/gustavo/.vscode/extensions/ttoowa.in-your-face-incredible-1.1.0
+2023-08-03 16:56:58.220 [info] Extracting extension completed. ttoowa.in-your-face-incredible
+2023-08-03 16:56:58.224 [info] Extension installed successfully: ttoowa.in-your-face-incredible

@@ -1,0 +1,4 @@
+file:///home/gustavo/projetos/rust/src/main.rs {"mtime":1691795294629,"ctime":1691794869659,"size":44,"etag":"3b25len991d","orphaned":false,"typeId":""}
+fn main() {
+    println!("Hello, world!");
+}

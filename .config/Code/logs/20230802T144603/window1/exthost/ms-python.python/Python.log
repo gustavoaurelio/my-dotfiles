@@ -1,0 +1,25 @@
+2023-08-02 14:46:04.295 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-02 14:46:04.295 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-02 14:46:04.295 [info] Experiment 'pythonSurveyNotification' is active
+2023-08-02 14:46:04.295 [info] Experiment 'pythonTestAdapter' is active
+2023-08-02 14:46:04.322 [info] Test server listening.
+2023-08-02 14:46:04.357 [info] Python interpreter path: ./env/bin/python
+2023-08-02 14:46:05.542 [info] Starting Pylance language server.
+2023-08-02 14:57:44.014 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:17:37.478 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:17:58.309 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:18:03.949 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:18:43.621 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:18:45.942 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:18:58.401 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:34:29.292 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:34:44.281 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:35:21.534 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:35:39.812 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:36:51.315 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:37:22.687 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:37:34.656 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:38:24.538 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:38:59.070 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:39:06.579 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py
+2023-08-02 15:42:37.126 [info] Discover tests for workspace name: python - uri: /home/gustavo/projetos/python/main.py

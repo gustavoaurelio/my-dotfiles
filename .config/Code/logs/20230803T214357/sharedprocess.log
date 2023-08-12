@@ -1,0 +1,9 @@
+2023-08-03 21:43:59.151 [info] Deleted from disk ms-python.vscode-pylance /home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2023.7.40
+2023-08-03 21:44:02.481 [info] Getting Manifest... ms-python.python
+2023-08-03 21:44:02.525 [info] Installing extension: ms-python.python
+2023-08-03 21:44:06.003 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2023-08-03 21:44:06.985 [info] Extracted extension to /home/gustavo/.vscode/extensions/.215d6882-a217-401d-8b2b-4c124d9d6940: ms-python.python
+2023-08-03 21:44:06.988 [info] Renamed to /home/gustavo/.vscode/extensions/ms-python.python-2023.14.0
+2023-08-03 21:44:06.991 [info] Extracting extension completed. ms-python.python
+2023-08-03 21:44:07.009 [info] Extension installed successfully: ms-python.python
+2023-08-03 21:44:07.012 [info] Marked extension as uninstalled ms-python.python-2023.12.0

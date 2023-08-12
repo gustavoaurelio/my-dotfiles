@@ -1,0 +1,13 @@
+T 1691629228 19*	Agora falando em 22#mundo-libre
+T 1691629228 22*	Tópico para 22#mundo-libre é: Netiqueta do canal: /quote help netiqueta --> Comandos básicos: https://wiki.slackjeff.com.br/doku.php?id=howto:comandosirc-unreal
+T 1691629228 22*	Tópico do 22#mundo-libre definido por 26devnull (24Thu Jul  6 18:09:06 2023)
+T 1691629264 18<asr00t18>	hrcerq http://web.archive.org/web/20080918081029/http://br-linux.org/2008/mozilla-quer-que-firefox-exiba-uma-eula-na-primeira-execucao/
+T 1691629278 18<hrcerq18>	haha
+T 1691629280 18<hrcerq18>	foi o começo do fim
+T 1691629401 18<hrcerq18>	ali a mozilla estava começando a mostrar quem era por baixo da pele de cordeiro
+T 1691629407 18<hrcerq18>	digo, de raposa
+T 1691629463 24*	k4aus desconectou-se (Saindo)
+T 1691629527 18<hrcerq18>	alias, a Mozilla nos ultimos 15 anos pelo menos, protagonizou algumas das campanhas mais patéticas e inúteis que eu já vi
+T 1691629555 18<asr00t18>	mudaram de ideia depois de um tempo
+T 1691629574 18<asr00t18>	sim
+T 1691629611 FiSHLiM plugin unloaded

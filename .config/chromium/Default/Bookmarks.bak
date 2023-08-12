@@ -1,0 +1,125 @@
+{
+   "checksum": "5738c701b738ca2c599a5988c20e0cc2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13308865715000000",
+            "date_last_used": "13336266407817044",
+            "guid": "f7360b19-c7a4-4c42-855f-3f6a55ae3f6c",
+            "id": "5",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13335679106275334",
+            "date_last_used": "13336266410220473",
+            "guid": "f9b75ea1-21d3-4c94-a206-b0643d37669c",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Telegram Web",
+            "type": "url",
+            "url": "https://web.telegram.org/k/"
+         }, {
+            "date_added": "13308865715000000",
+            "date_last_used": "0",
+            "guid": "d9ff91eb-0257-4da0-b244-19a9187ea240",
+            "id": "6",
+            "name": "Twitch",
+            "type": "url",
+            "url": "https://www.twitch.tv/"
+         }, {
+            "date_added": "13336185240708222",
+            "date_last_used": "0",
+            "guid": "7692d8b4-c9c9-4a4a-b202-2e95b85a501e",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Instagram",
+            "type": "url",
+            "url": "https://www.instagram.com/"
+         }, {
+            "date_added": "13309056389000000",
+            "date_last_used": "0",
+            "guid": "c048b5c4-3bcc-4811-900e-0f72aa57a43f",
+            "id": "7",
+            "name": "Home / Twitter",
+            "type": "url",
+            "url": "https://twitter.com/home"
+         }, {
+            "date_added": "13308865715000000",
+            "date_last_used": "0",
+            "guid": "f67f3ccb-cabc-4747-af6d-8b1103ac3713",
+            "id": "8",
+            "name": "Painel Slackjeff",
+            "type": "url",
+            "url": "https://slackjeff.com.br/area-do-aluno/my/"
+         }, {
+            "date_added": "13308865715000000",
+            "date_last_used": "0",
+            "guid": "d8cdaa4e-a809-4771-84d4-1d845653f147",
+            "id": "14",
+            "name": "ProtonMail",
+            "type": "url",
+            "url": "https://mail.proton.me/u/0/inbox"
+         }, {
+            "date_added": "13308865715000000",
+            "date_last_used": "0",
+            "guid": "a94b1d7d-154a-4dd7-ad40-a387a6ca6716",
+            "id": "15",
+            "name": "gustavoaurelio",
+            "type": "url",
+            "url": "https://github.com/gustavoaurelio"
+         }, {
+            "date_added": "13308865715000000",
+            "date_last_used": "0",
+            "guid": "d35a36db-6809-463c-8fba-463b6f747334",
+            "id": "16",
+            "name": "Envio de Arquivo Anônimo - AnonFiles",
+            "type": "url",
+            "url": "https://anonfiles.com/"
+         }, {
+            "date_added": "13335608812591558",
+            "date_last_used": "0",
+            "guid": "62457e73-9c24-4519-a999-62d788748cca",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Arquivo da Anna",
+            "type": "url",
+            "url": "https://pt.annas-archive.org/"
+         } ],
+         "date_added": "13335607618842173",
+         "date_last_used": "0",
+         "date_modified": "13336185245539531",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13335607618842175",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13335607618842176",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos nos dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

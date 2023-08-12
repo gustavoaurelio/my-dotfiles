@@ -1,0 +1,18 @@
+2023-08-10 20:13:36.105 [info] Log level: Info
+2023-08-10 20:13:36.105 [info] Validating found git in: "git"
+2023-08-10 20:13:36.105 [info] Using git "2.41.0" from "git"
+2023-08-10 20:13:46.775 [info] Log level: Info
+2023-08-10 20:13:46.775 [info] Validating found git in: "git"
+2023-08-10 20:13:46.775 [info] Using git "2.41.0" from "git"
+2023-08-10 20:13:46.775 [info] > git rev-parse --show-toplevel [27ms]
+2023-08-10 20:13:46.822 [info] > git rev-parse --git-dir --git-common-dir [9ms]
+2023-08-10 20:13:46.828 [info] Open repository: /home/gustavo/projetos/javascript
+2023-08-10 20:13:46.840 [info] > git config --get commit.template [2ms]
+2023-08-10 20:13:46.847 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-08-10 20:13:46.855 [info] > git status -z -uall [2ms]
+2023-08-10 20:13:46.869 [info] > git config --get commit.template [5ms]
+2023-08-10 20:13:46.869 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-08-10 20:13:46.874 [info] > git status -z -uall [1ms]
+2023-08-10 20:13:47.362 [info] > git check-ignore -v -z --stdin [1ms]
+2023-08-10 20:13:48.119 [info] > git show --textconv :index.js [40ms]
+2023-08-10 20:13:48.119 [info] > git ls-files --stage -- /home/gustavo/projetos/javascript/index.js [34ms]

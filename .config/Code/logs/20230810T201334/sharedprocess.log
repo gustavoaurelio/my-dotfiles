@@ -1,0 +1,35 @@
+2023-08-10 20:39:19.576 [info] Getting Manifest... xabikos.javascriptsnippets
+2023-08-10 20:39:19.581 [info] Installing extension: xabikos.javascriptsnippets
+2023-08-10 20:39:20.000 [warning] Extension signature verification failed with error 'UnknownError': xabikos.javascriptsnippets
+2023-08-10 20:39:20.011 [info] Extracted extension to file:///home/gustavo/.vscode/extensions/xabikos.javascriptsnippets-1.8.0: xabikos.javascriptsnippets
+2023-08-10 20:39:20.013 [info] Renamed to /home/gustavo/.vscode/extensions/xabikos.javascriptsnippets-1.8.0
+2023-08-10 20:39:20.014 [info] Extracting extension completed. xabikos.javascriptsnippets
+2023-08-10 20:39:20.019 [info] Extension installed successfully: xabikos.javascriptsnippets
+2023-08-10 20:39:25.905 [info] Getting Manifest... mgmcdermott.vscode-language-babel
+2023-08-10 20:39:25.909 [info] Installing extension: mgmcdermott.vscode-language-babel
+2023-08-10 20:39:26.415 [warning] Extension signature verification failed with error 'UnknownError': mgmcdermott.vscode-language-babel
+2023-08-10 20:39:26.446 [info] Extracted extension to file:///home/gustavo/.vscode/extensions/mgmcdermott.vscode-language-babel-0.0.39: mgmcdermott.vscode-language-babel
+2023-08-10 20:39:26.448 [info] Renamed to /home/gustavo/.vscode/extensions/mgmcdermott.vscode-language-babel-0.0.39
+2023-08-10 20:39:26.449 [info] Extracting extension completed. mgmcdermott.vscode-language-babel
+2023-08-10 20:39:26.453 [info] Extension installed successfully: mgmcdermott.vscode-language-babel
+2023-08-10 20:39:31.876 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2023-08-10 20:39:31.881 [info] Installing extension: ms-vscode.vscode-typescript-next
+2023-08-10 20:39:33.986 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.vscode-typescript-next
+2023-08-10 20:39:34.230 [info] Extracted extension to file:///home/gustavo/.vscode/extensions/ms-vscode.vscode-typescript-next-5.3.20230809: ms-vscode.vscode-typescript-next
+2023-08-10 20:39:34.241 [info] Renamed to /home/gustavo/.vscode/extensions/ms-vscode.vscode-typescript-next-5.3.20230809
+2023-08-10 20:39:34.242 [info] Extracting extension completed. ms-vscode.vscode-typescript-next
+2023-08-10 20:39:34.253 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+2023-08-10 20:39:37.189 [info] Getting Manifest... ms-vscode.js-debug-nightly
+2023-08-10 20:39:37.196 [info] Installing extension: ms-vscode.js-debug-nightly
+2023-08-10 20:39:38.338 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.js-debug-nightly
+2023-08-10 20:39:38.382 [info] Extracted extension to file:///home/gustavo/.vscode/extensions/ms-vscode.js-debug-nightly-2023.8.417: ms-vscode.js-debug-nightly
+2023-08-10 20:39:38.393 [info] Renamed to /home/gustavo/.vscode/extensions/ms-vscode.js-debug-nightly-2023.8.417
+2023-08-10 20:39:38.400 [info] Extracting extension completed. ms-vscode.js-debug-nightly
+2023-08-10 20:39:38.407 [info] Extension installed successfully: ms-vscode.js-debug-nightly
+2023-08-10 20:40:06.740 [info] Getting Manifest... tabnine.tabnine-vscode
+2023-08-10 20:40:06.744 [info] Installing extension: tabnine.tabnine-vscode
+2023-08-10 20:40:07.331 [warning] Extension signature verification failed with error 'UnknownError': tabnine.tabnine-vscode
+2023-08-10 20:40:07.355 [info] Extracted extension to file:///home/gustavo/.vscode/extensions/tabnine.tabnine-vscode-3.7.0: tabnine.tabnine-vscode
+2023-08-10 20:40:07.357 [info] Renamed to /home/gustavo/.vscode/extensions/tabnine.tabnine-vscode-3.7.0
+2023-08-10 20:40:07.358 [info] Extracting extension completed. tabnine.tabnine-vscode
+2023-08-10 20:40:07.362 [info] Extension installed successfully: tabnine.tabnine-vscode

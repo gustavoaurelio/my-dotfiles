@@ -1,0 +1,6 @@
+20:40:09 GMT-0300 (Horário Padrão de Brasília) [INFO]: spawning binary with command: /home/gustavo/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.5.27/x86_64-unknown-linux-musl/TabNine args: --no-lsp=true --client=vscode --client-metadata clientVersion=1.81.1 pluginVersion=3.7.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=Omni Customized Dark vscode-theme-kind=Dark vscode-machine-id=c680d52ebebd02929149aa935239a02cb78b18ffebc6c4a5d4d3d7076d85e253 vscode-is-new-app-install=false vscode-session-id=3bb2cc64-157f-482f-a9d2-543e5265a67d1691709226081 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown vscode-inline-api-enabled=true ide-restart-counter=0 
+
+20:40:09 GMT-0300 (Horário Padrão de Brasília) [DEBUG]: capabilities resolved immediately 
+
+21:09:32 GMT-0300 (Horário Padrão de Brasília) [WARN]: assistant is closing 
+

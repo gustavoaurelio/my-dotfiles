@@ -1,0 +1,34 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1690760817822" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="5" l="1690760829463" />
+    </e>
+    <e n="EditorRight">
+      <i c="2" l="1690760827973" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1690760947246" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1690760851725" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="1" l="1690760854282" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="3" l="1690760960936" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1690760758029" />
+    </e>
+    <e n="com.intellij.toolWindow.MoreSquareStripeButtonKt$createAction$1">
+      <i c="1" l="1690760936995" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1690760856874" />
+    </e>
+  </component>
+</application>

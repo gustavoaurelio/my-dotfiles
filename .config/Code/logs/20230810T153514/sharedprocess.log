@@ -1,0 +1,9 @@
+2023-08-10 15:35:15.544 [info] Deleted uninstalled extension from disk usernamehw.errorlens /home/gustavo/.vscode/extensions/usernamehw.errorlens-3.12.0
+2023-08-10 15:35:15.766 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gustavo/.vscode/extensions/usernamehw.errorlens-3.12.0.-1fad3907.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gustavo/.vscode/extensions/usernamehw.errorlens-3.12.0.-1fad3907.vsctmp'
+    at s.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:34:30154)
+    at i (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:34:30274)
+    at t.ab (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:35342)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:28004)
+    at async p.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:15546)
+    at async H.pb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:9532)
+2023-08-10 15:35:15.965 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2023.8.10

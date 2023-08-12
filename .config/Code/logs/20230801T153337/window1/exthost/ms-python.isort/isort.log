@@ -1,0 +1,66 @@
+2023-08-01 15:33:46.109 [info] Name: isort
+2023-08-01 15:33:46.109 [info] Module: isort
+2023-08-01 15:33:46.109 [info] Python extension loading
+2023-08-01 15:33:46.109 [info] Waiting for interpreter from python extension.
+2023-08-01 15:33:46.109 [info] No interpreter found from setting isort.interpreter
+2023-08-01 15:33:46.109 [info] Getting interpreter from ms-python.python extension for workspace /home/gustavo/projetos/python
+2023-08-01 15:33:46.109 [info] Python extension loaded
+2023-08-01 15:33:46.109 [info] Interpreter from ms-python.python extension for /home/gustavo/projetos/python: /home/gustavo/projetos/python/env/bin/python
+2023-08-01 15:33:46.109 [info] No interpreter found from setting isort.interpreter
+2023-08-01 15:33:46.109 [info] Getting interpreter from ms-python.python extension for workspace /home/gustavo/projetos/python
+2023-08-01 15:33:46.109 [info] Interpreter from ms-python.python extension for /home/gustavo/projetos/python: /home/gustavo/projetos/python/env/bin/python
+2023-08-01 15:33:46.109 [info] Server run command: /home/gustavo/projetos/python/env/bin/python /home/gustavo/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool/lsp_server.py
+2023-08-01 15:33:46.109 [info] Server: Start requested.
+2023-08-01 15:33:46.514 [info] CWD Server: /home/gustavo/projetos/python
+2023-08-01 15:33:46.514 [info] sys.path used to run Server:
+   /home/gustavo/.vscode/extensions/ms-python.isort-2023.10.1/bundled/libs
+   /home/gustavo/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool
+   /usr/lib/python311.zip
+   /usr/lib/python3.11
+   /usr/lib/python3.11/lib-dynload
+   /home/gustavo/projetos/python/env/lib/python3.11/site-packages
+2023-08-01 15:33:46.514 [info] Settings used to run Server:
+[
+    {
+        "check": false,
+        "cwd": "/home/gustavo/projetos/python",
+        "workspace": "file:///home/gustavo/projetos/python",
+        "args": [],
+        "path": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "interpreter": [
+            "/home/gustavo/projetos/python/env/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2023-08-01 15:33:46.514 [info] Global settings:
+{
+    "check": false,
+    "cwd": "/home/gustavo",
+    "workspace": "/home/gustavo",
+    "args": [],
+    "path": [],
+    "severity": {
+        "W": "Warning",
+        "E": "Hint"
+    },
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2023-08-01 15:33:46.516 [info] /home/gustavo/projetos/python/env/bin/python -m isort --version-number
+2023-08-01 15:33:46.516 [info] CWD Linter: /home/gustavo/projetos/python
+2023-08-01 15:33:46.518 [info] Version info for isort running for /home/gustavo/projetos/python:
+5.11.5
+
+2023-08-01 15:33:46.518 [info] SUPPORTED isort>=5.10.1
+FOUND isort==5.11.5
+
+2023-08-01 15:33:46.529 [info] [Trace - 15:33:46] Received notification 'textDocument/publishDiagnostics'.

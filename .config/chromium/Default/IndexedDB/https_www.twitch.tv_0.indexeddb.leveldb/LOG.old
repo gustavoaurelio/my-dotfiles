@@ -1,0 +1,6 @@
+2023/08/10-17:25:56.296 70d Creating DB /home/gustavo/.config/chromium/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb since it was missing.
+2023/08/10-17:25:56.299 70d Reusing MANIFEST /home/gustavo/.config/chromium/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/10-17:26:28.321 70e Level-0 table #5: started
+2023/08/10-17:26:28.323 70e Level-0 table #5: 1062 bytes OK
+2023/08/10-17:26:28.325 70e Delete type=0 #3
+2023/08/10-17:26:28.325 70e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,3 @@
+T 1691629243 19*	Agora falando em 22#seguranca
+T 1691629244 22*	Tópico para 22#seguranca é: Segurança Digital
+T 1691629244 22*	Tópico do 22#seguranca definido por 26slackjeff (24Sat Dec 17 23:47:36 2022)

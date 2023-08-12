@@ -1,0 +1,12 @@
+2023/08/11-19:53:07.857 3013 Reusing MANIFEST /home/gustavo/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/11-19:53:07.857 3013 Recovering log #39
+2023/08/11-19:53:07.858 3013 Reusing old log /home/gustavo/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000039.log 
+2023/08/11-19:58:22.483 3014 Level-0 table #44: started
+2023/08/11-19:58:22.496 3014 Level-0 table #44: 1411861 bytes OK
+2023/08/11-19:58:22.499 3014 Delete type=0 #39
+2023/08/11-20:46:15.098 3018 Compacting 1@1 + 1@2 files
+2023/08/11-20:46:15.101 3018 Generated table #45@1: 451 keys, 46636 bytes
+2023/08/11-20:46:15.101 3018 Compacted 1@1 + 1@2 files => 46636 bytes
+2023/08/11-20:46:15.103 3018 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/11-20:46:15.103 3018 Delete type=2 #41
+2023/08/11-20:46:15.103 3018 Delete type=2 #44

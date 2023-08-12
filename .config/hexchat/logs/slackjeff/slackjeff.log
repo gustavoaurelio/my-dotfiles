@@ -1,0 +1,307 @@
+**** REGISTRO COMEÇANDO EM Wed Aug  9 21:57:40 2023
+
+ago 09 21:57:40 *	*** Looking up your hostname...
+ago 09 21:57:40 *	*** Couldn't resolve your hostname; using your IP address instead
+ago 09 21:57:40 *	Capacidades suportadas: unrealircd.org/link-security=2 unrealircd.org/plaintext-policy=user=allow,oper=deny,server=deny unrealircd.org/history-storage=memory away-notify invite-notify extended-join userhost-in-names multi-prefix cap-notify sasl=EXTERNAL,PLAIN setname tls chghost account-notify message-tags batch server-time account-tag echo-message labeled-response draft/chathistory extended-monitor standard-replies unrealircd.org/json-log
+ago 09 21:57:40 *	Capacidades requeridas: away-notify invite-notify extended-join userhost-in-names multi-prefix cap-notify setname chghost account-notify server-time account-tag 
+ago 09 21:57:41 *	Capacidade aprendidas: away-notify invite-notify extended-join userhost-in-names multi-prefix cap-notify setname chghost account-notify server-time account-tag 
+**** REGISTRO FINALIZANDO EM Wed Aug  9 21:57:42 2023
+
+**** REGISTRO COMEÇANDO EM Wed Aug  9 21:57:42 2023
+
+ago 09 21:57:42 *	Welcome to the Slackjeff IRC Server IRC Network kacz!kcz@localhost
+ago 09 21:57:42 *	Your host is slackjeff.com.br, running version UnrealIRCd-6.1.1.1
+ago 09 21:57:42 *	This server was created Fri Jun 23 2023 at 18:30:49 UTC
+ago 09 21:57:42 *	slackjeff.com.br UnrealIRCd-6.1.1.1 diopqrstwxzBDGHIRSTWZ beIacdfhiklmnopqrstvzCDFGHKLMNOPQRSTVZ
+ago 09 21:57:42 *	ACCOUNTEXTBAN=account,a AWAYLEN=307 BOT=B CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=beI,fkL,lFH,cdimnprstzCDGKMNOPQRSTVZ CHANNELLEN=32 CHANTYPES=# CHATHISTORY=50 CLIENTTAGDENY=*,-draft/typing,-typing,-draft/channel-context,-draft/reply DEAF=d ELIST=MNUCT :are supported by this server
+ago 09 21:57:42 *	EXCEPTS EXTBAN=~,acfjmnpqrtCFGOST INVEX KICKLEN=307 KNOCK MAP MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MINNICKLEN=0 MODES=12 MONITOR=128 MSGREFTYPES=msgid,timestamp :are supported by this server
+**** REGISTRO COMEÇANDO EM Wed Aug  9 21:59:20 2023
+
+ago 09 21:59:20 *	Welcome to the Slackjeff IRC Server IRC Network Guest5330!kcz@localhost
+ago 09 21:59:20 *	Your host is slackjeff.com.br, running version UnrealIRCd-6.1.1.1
+ago 09 21:59:20 *	This server was created Fri Jun 23 2023 at 18:30:49 UTC
+ago 09 21:59:20 *	slackjeff.com.br UnrealIRCd-6.1.1.1 diopqrstwxzBDGHIRSTWZ beIacdfhiklmnopqrstvzCDFGHKLMNOPQRSTVZ
+ago 09 21:59:20 *	ACCOUNTEXTBAN=account,a AWAYLEN=307 BOT=B CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=beI,fkL,lFH,cdimnprstzCDGKMNOPQRSTVZ CHANNELLEN=32 CHANTYPES=# CHATHISTORY=50 CLIENTTAGDENY=*,-draft/typing,-typing,-draft/channel-context,-draft/reply DEAF=d ELIST=MNUCT :are supported by this server
+ago 09 21:59:20 *	EXCEPTS EXTBAN=~,acfjmnpqrtCFGOST INVEX KICKLEN=307 KNOCK MAP MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MINNICKLEN=0 MODES=12 MONITOR=128 MSGREFTYPES=msgid,timestamp :are supported by this server
+ago 09 21:59:20 *	NAMELEN=50 NAMESX NETWORK=Slackjeff-IRC-Server NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,TAGMSG:1,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES :are supported by this server
+ago 09 21:59:20 *	USERIP WALLCHOPS WATCH=128 WATCHOPTS=A WHOX :are supported by this server
+ago 09 21:59:20 *	C576B606.B91DD7DF.160622D.IP :is now your displayed host
+ago 09 21:59:20 *	*** You are connected to slackjeff.com.br with TLSv1.3-TLS_CHACHA20_POLY1305_SHA256
+ago 09 21:59:20 *	There are 1 users and 25 invisible on 2 servers
+ago 09 21:59:20 *	9 :operator(s) online
+ago 09 21:59:20 *	21 :channels formed
+ago 09 21:59:20 *	I have 17 clients and 1 servers
+ago 09 21:59:20 *	17 30 :Current local users 17, max 30
+ago 09 21:59:20 *	26 38 :Current global users 26, max 38
+ago 09 21:59:20 *	- slackjeff.com.br Message of the Day - 
+ago 09 21:59:20 *	- 6/7/2023 17:49
+ago 09 21:59:20 *	-  __  __                 _         _     _ _              
+ago 09 21:59:20 *	- |  \/  |_   _ _ __   __| | ___   | |   (_) |__  _ __ ___ 
+ago 09 21:59:20 *	- | |\/| | | | | '_ \ / _` |/ _ \  | |   | | '_ \| '__/ _ \
+ago 09 21:59:20 *	- | |  | | |_| | | | | (_| | (_) | | |___| | |_) | | |  __/
+ago 09 21:59:20 *	- |_|  |_|\__,_|_| |_|\__,_|\___/  |_____|_|_.__/|_|  \___|
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	-                             .......                        
+ago 09 21:59:20 *	-                          .',;;:cloddl;.                    
+ago 09 21:59:20 *	-                       ..';:clodxOO000Okc,.                 
+ago 09 21:59:20 *	-                    ....;llodxxO00KKKKK0Oxo;                
+ago 09 21:59:20 *	-                   ...',:looxkO0KXXXKKKKK0Oxc.              
+ago 09 21:59:20 *	-                  ....',:lodxxO0KXXNNXXXXK0kxc              
+ago 09 21:59:20 *	-                 .....,;clodx0KXXXXXNNXKK0Oxd'             
+ago 09 21:59:20 *	-                 ......,::coddk000KNNNNXXK0Oxd:             
+ago 09 21:59:20 *	-                ........,o:,'..'cdOOO0KXX0kdxkoc.          
+ago 09 21:59:20 *	-                ..      .dko,    .,:dOKXXKOxOK0Oo          
+ago 09 21:59:20 *	-                .       .d0KOl,;:d0XNNNNXK0xox,dk          
+ago 09 21:59:20 *	-                .. .    ;x00KXOxdkKXNNNNXK0:.0ddd          
+ago 09 21:59:20 *	-                '... ...;dKK0xcoOKNNNNXXK0d,.o00l          
+ago 09 21:59:20 *	-                 .....   .;c,cdccd0NXXKK0Od,..lNK,          
+ago 09 21:59:20 *	-                  ....        .:oOOO0000Oo;..'',.           
+ago 09 21:59:20 *	-                   .          ...';l0Oko,.. ..'             
+ago 09 21:59:20 *	-  MUNDO                    .,;,'.  c:,'.     ;             
+ago 09 21:59:20 *	-  LIBRE                   ...'';c:'          ;l'            
+ago 09 21:59:20 *	-                                .,,..       'lddl'           
+ago 09 21:59:20 *	-                              ...        .;loxxoll:,'.      
+ago 09 21:59:20 *	-  SEJA                                  .;codxxdloool.      
+ago 09 21:59:20 *	-  MUITO                                .,:cloodxxdddc        
+ago 09 21:59:20 *	-  BEMVINDO !                          .,;;:cloodxxkx,         
+ago 09 21:59:20 *	-                                     .';;;:cclodxkd.          
+ago 09 21:59:20 *	-                                    .',,,;:clldo'  
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- ---------------------------------------------------------------------
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- Faça o bom uso desta plataforma! Foi disponibilizada para a
+ago 09 21:59:20 *	- comunidade de software livre para termos um chat confiável e seguro.
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- >>> Canais Oficiais do Servidor:
+ago 09 21:59:20 *	- #mundo-libre
+ago 09 21:59:20 *	- #ajuda
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- * REGRAS *
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- 1 - Respeito à Legislação Brasileira
+ago 09 21:59:20 *	- Obrigatório. A Internet não está isenta de leis e regulamentações e,
+ago 09 21:59:20 *	- portanto, é responsabilidade de cada usuário agir de acordo com a
+ago 09 21:59:20 *	- legislação. Isso proíbe, por exemplo, a “pirataria”, racismo, homofobia,
+ago 09 21:59:20 *	- preconceito, intolerância religiosa, incitação à violência, dentre outros
+ago 09 21:59:20 *	- crimes e infrações. O não cumprimento à Legislação pode resultar em
+ago 09 21:59:20 *	- complicações legais para o serviço, os donos do servidor e todos os usuários.
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- 2 - Pornografia
+ago 09 21:59:20 *	- É estritamente proibido enviar qualquer tipo de link de conteúdo adulto.
+ago 09 21:59:20 *	- Essa regra é imposta para manter um ambiente seguro e respeitoso para
+ago 09 21:59:20 *	- todos os usuários, incluindo menores de idade que frequentam o servidor.
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- 3 - BlackHat/Script Kiddie
+ago 09 21:59:20 *	- Ações de blackhat prejudicam não apenas os usuários, como também o servidor.
+ago 09 21:59:20 *	- É importante manter um ambiente seguro e responsável.
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- 4 - Consciência de uso em Ambiente Corporativo
+ago 09 21:59:20 *	- Se seu acesso à Internet for concedido por uma organização da qual faz parte,
+ago 09 21:59:20 *	- certifique-se de que você possui permissão para acessar este servidor.
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- - CONSEQUÊNCIAS -
+ago 09 21:59:20 *	- Os OPERS do servidor poderão te banir (inclusive permanentemente) de acordo
+ago 09 21:59:20 *	- com os descumprimento dessas regras.
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- Saiba mais em: https://wiki.slackjeff.com.br/doku.php?id=howto:irc-rules
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- IRCOps
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- slackjeff (owner)
+ago 09 21:59:20 *	- hrcerq (staff)
+ago 09 21:59:20 *	- devnull (staff)
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- Informações:
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- - Os Nicks automaticamente expiram após 4 meses sem serem usados, liberando então para outros que queiram utilizar.
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- - Se precisar de ajuda, não hesite em perguntar no canal #ajuda.
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- - Sinta-se a vontade para criar seu próprio canal para as pessoas falarem do mesmo assunto!
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- - Primeira vez no servidor?
+ago 09 21:59:20 *	-   Aproveite e registre seu nick: /msg NickServ register EMAIL SENHA
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- Novidades:
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- - IRC rodando tambem sob a rede onion: slack265fbszrg7eyagbc3aat6eiqpcqwivixoakzlsuphzyw422huyd.onion
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- Bom proveito!
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	- Slackjeff IRC Server
+ago 09 21:59:20 *	- ---------------------------------------------------------------------
+ago 09 21:59:20 *	- 
+ago 09 21:59:20 *	End of /MOTD command.
+ago 09 21:59:20 *	Guest5330 ajustou os modos +i em Guest5330
+ago 09 21:59:20 *	Guest5330 ajustou os modos +w em Guest5330
+ago 09 21:59:20 *	Guest5330 ajustou os modos +x em Guest5330
+ago 09 21:59:20 *	Guest5330 ajustou os modos +z em Guest5330
+ago 09 21:59:19 -NickServ-	Seu Nick não está registrado. Para registrar, digite: /msg NickServ REGISTER password email
+ago 09 21:59:19 -Global-	[Logon News - Apr 27 18:00:51 2023 -03] Já conhece o Poison Linux? Distribuição GNU/Linux do Slackjeff. Entrem: #poisonlinux Saiba mais em https://poisonlinux.sourceforge.io
+ago 09 21:59:23 *	kacz :Nickname is unavailable: Being held for registered user
+ago 09 21:59:30 *	Desconectado ()
+ago 09 21:59:38 *	Localizando slack265fbszrg7eyagbc3aat6eiqpcqwivixoakzlsuphzyw422huyd.onion
+ago 09 21:59:38 *	Localizando 127.0.0.1
+ago 09 21:59:38 *	Conectando a 127.0.0.1 (127.0.0.1:9050)
+ago 09 21:59:42 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+ago 09 21:59:42 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+ago 09 21:59:42 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+ago 09 21:59:42 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+ago 09 21:59:42 *	* Subject: /CN=slackjeff.com.br
+ago 09 21:59:42 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+ago 09 21:59:42 *	* Certification info:
+ago 09 21:59:42 *	  Subject:
+ago 09 21:59:42 *	    CN=slackjeff.com.br
+ago 09 21:59:42 *	  Issuer:
+ago 09 21:59:42 *	    C=US
+ago 09 21:59:42 *	    O=Let's Encrypt
+ago 09 21:59:42 *	    CN=R3
+ago 09 21:59:42 *	  Public key algorithm: rsaEncryption (2048 bits)
+ago 09 21:59:42 *	  Sign algorithm sha256WithRSAEncryption
+ago 09 21:59:42 *	  Valid since Jun 15 16:35:50 2023 GM to Sep 13 16:35:49 2023 GM
+ago 09 21:59:42 *	* Cipher info:
+ago 09 21:59:42 *	  Version: TLSv1.3, cipher TLS_CHACHA20_POLY1305_SHA256 (256 bits)
+ago 09 21:59:42 *	* Verify E: Failed to validate hostname? (-1) -- Ignored
+ago 09 21:59:42 *	Conectado. Agora, identificando-se.
+ago 09 21:59:44 *	*** Looking up your hostname...
+ago 09 21:59:44 *	*** Couldn't resolve your hostname; using your IP address instead
+ago 09 21:59:44 *	Capacidades suportadas: unrealircd.org/link-security=2 unrealircd.org/plaintext-policy=user=allow,oper=deny,server=deny unrealircd.org/history-storage=memory away-notify invite-notify extended-join userhost-in-names multi-prefix cap-notify sasl=EXTERNAL,PLAIN setname tls chghost account-notify message-tags batch server-time account-tag echo-message labeled-response draft/chathistory extended-monitor standard-replies unrealircd.org/json-log
+ago 09 21:59:44 *	Capacidades requeridas: away-notify invite-notify extended-join userhost-in-names multi-prefix cap-notify setname chghost account-notify server-time account-tag 
+ago 09 21:59:45 *	Capacidade aprendidas: away-notify invite-notify extended-join userhost-in-names multi-prefix cap-notify setname chghost account-notify server-time account-tag 
+**** REGISTRO FINALIZANDO EM Wed Aug  9 21:59:45 2023
+
+**** REGISTRO COMEÇANDO EM Wed Aug  9 21:59:45 2023
+
+ago 09 21:59:45 *	Welcome to the Slackjeff IRC Server IRC Network kacz!kcz@localhost
+ago 09 21:59:45 *	Your host is slackjeff.com.br, running version UnrealIRCd-6.1.1.1
+ago 09 21:59:45 *	This server was created Fri Jun 23 2023 at 18:30:49 UTC
+ago 09 21:59:45 *	slackjeff.com.br UnrealIRCd-6.1.1.1 diopqrstwxzBDGHIRSTWZ beIacdfhiklmnopqrstvzCDFGHKLMNOPQRSTVZ
+ago 09 21:59:45 *	ACCOUNTEXTBAN=account,a AWAYLEN=307 BOT=B CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=beI,fkL,lFH,cdimnprstzCDGKMNOPQRSTVZ CHANNELLEN=32 CHANTYPES=# CHATHISTORY=50 CLIENTTAGDENY=*,-draft/typing,-typing,-draft/channel-context,-draft/reply DEAF=d ELIST=MNUCT :are supported by this server
+ago 09 21:59:45 *	EXCEPTS EXTBAN=~,acfjmnpqrtCFGOST INVEX KICKLEN=307 KNOCK MAP MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MINNICKLEN=0 MODES=12 MONITOR=128 MSGREFTYPES=msgid,timestamp :are supported by this server
+ago 09 21:59:45 *	NAMELEN=50 NAMESX NETWORK=Slackjeff-IRC-Server NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,TAGMSG:1,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES :are supported by this server
+ago 09 21:59:45 *	USERIP WALLCHOPS WATCH=128 WATCHOPTS=A WHOX :are supported by this server
+ago 09 21:59:45 *	C576B606.B91DD7DF.160622D.IP :is now your displayed host
+ago 09 21:59:45 *	*** You are connected to slackjeff.com.br with TLSv1.3-TLS_CHACHA20_POLY1305_SHA256
+ago 09 21:59:45 *	There are 1 users and 25 invisible on 2 servers
+ago 09 21:59:45 *	9 :operator(s) online
+ago 09 21:59:45 *	21 :channels formed
+ago 09 21:59:45 *	I have 17 clients and 1 servers
+ago 09 21:59:45 *	17 30 :Current local users 17, max 30
+ago 09 21:59:45 *	26 38 :Current global users 26, max 38
+ago 09 21:59:45 *	- slackjeff.com.br Message of the Day - 
+ago 09 21:59:45 *	- 6/7/2023 17:49
+ago 09 21:59:45 *	-  __  __                 _         _     _ _              
+ago 09 21:59:45 *	- |  \/  |_   _ _ __   __| | ___   | |   (_) |__  _ __ ___ 
+ago 09 21:59:45 *	- | |\/| | | | | '_ \ / _` |/ _ \  | |   | | '_ \| '__/ _ \
+ago 09 21:59:45 *	- | |  | | |_| | | | | (_| | (_) | | |___| | |_) | | |  __/
+ago 09 21:59:45 *	- |_|  |_|\__,_|_| |_|\__,_|\___/  |_____|_|_.__/|_|  \___|
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	-                             .......                        
+ago 09 21:59:45 *	-                          .',;;:cloddl;.                    
+ago 09 21:59:45 *	-                       ..';:clodxOO000Okc,.                 
+ago 09 21:59:45 *	-                    ....;llodxxO00KKKKK0Oxo;                
+ago 09 21:59:45 *	-                   ...',:looxkO0KXXXKKKKK0Oxc.              
+ago 09 21:59:45 *	-                  ....',:lodxxO0KXXNNXXXXK0kxc              
+ago 09 21:59:45 *	-                 .....,;clodx0KXXXXXNNXKK0Oxd'             
+ago 09 21:59:45 *	-                 ......,::coddk000KNNNNXXK0Oxd:             
+ago 09 21:59:45 *	-                ........,o:,'..'cdOOO0KXX0kdxkoc.          
+ago 09 21:59:45 *	-                ..      .dko,    .,:dOKXXKOxOK0Oo          
+ago 09 21:59:45 *	-                .       .d0KOl,;:d0XNNNNXK0xox,dk          
+ago 09 21:59:45 *	-                .. .    ;x00KXOxdkKXNNNNXK0:.0ddd          
+ago 09 21:59:45 *	-                '... ...;dKK0xcoOKNNNNXXK0d,.o00l          
+ago 09 21:59:45 *	-                 .....   .;c,cdccd0NXXKK0Od,..lNK,          
+ago 09 21:59:45 *	-                  ....        .:oOOO0000Oo;..'',.           
+ago 09 21:59:45 *	-                   .          ...';l0Oko,.. ..'             
+ago 09 21:59:45 *	-  MUNDO                    .,;,'.  c:,'.     ;             
+ago 09 21:59:45 *	-  LIBRE                   ...'';c:'          ;l'            
+ago 09 21:59:45 *	-                                .,,..       'lddl'           
+ago 09 21:59:45 *	-                              ...        .;loxxoll:,'.      
+ago 09 21:59:45 *	-  SEJA                                  .;codxxdloool.      
+ago 09 21:59:45 *	-  MUITO                                .,:cloodxxdddc        
+ago 09 21:59:45 *	-  BEMVINDO !                          .,;;:cloodxxkx,         
+ago 09 21:59:45 *	-                                     .';;;:cclodxkd.          
+ago 09 21:59:45 *	-                                    .',,,;:clldo'  
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- ---------------------------------------------------------------------
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- Faça o bom uso desta plataforma! Foi disponibilizada para a
+ago 09 21:59:45 *	- comunidade de software livre para termos um chat confiável e seguro.
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- >>> Canais Oficiais do Servidor:
+ago 09 21:59:45 *	- #mundo-libre
+ago 09 21:59:45 *	- #ajuda
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- * REGRAS *
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- 1 - Respeito à Legislação Brasileira
+ago 09 21:59:45 *	- Obrigatório. A Internet não está isenta de leis e regulamentações e,
+ago 09 21:59:45 *	- portanto, é responsabilidade de cada usuário agir de acordo com a
+ago 09 21:59:45 *	- legislação. Isso proíbe, por exemplo, a “pirataria”, racismo, homofobia,
+ago 09 21:59:45 *	- preconceito, intolerância religiosa, incitação à violência, dentre outros
+ago 09 21:59:45 *	- crimes e infrações. O não cumprimento à Legislação pode resultar em
+ago 09 21:59:45 *	- complicações legais para o serviço, os donos do servidor e todos os usuários.
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- 2 - Pornografia
+ago 09 21:59:45 *	- É estritamente proibido enviar qualquer tipo de link de conteúdo adulto.
+ago 09 21:59:45 *	- Essa regra é imposta para manter um ambiente seguro e respeitoso para
+ago 09 21:59:45 *	- todos os usuários, incluindo menores de idade que frequentam o servidor.
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- 3 - BlackHat/Script Kiddie
+ago 09 21:59:45 *	- Ações de blackhat prejudicam não apenas os usuários, como também o servidor.
+ago 09 21:59:45 *	- É importante manter um ambiente seguro e responsável.
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- 4 - Consciência de uso em Ambiente Corporativo
+ago 09 21:59:45 *	- Se seu acesso à Internet for concedido por uma organização da qual faz parte,
+ago 09 21:59:45 *	- certifique-se de que você possui permissão para acessar este servidor.
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- - CONSEQUÊNCIAS -
+ago 09 21:59:45 *	- Os OPERS do servidor poderão te banir (inclusive permanentemente) de acordo
+ago 09 21:59:45 *	- com os descumprimento dessas regras.
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- Saiba mais em: https://wiki.slackjeff.com.br/doku.php?id=howto:irc-rules
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- IRCOps
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- slackjeff (owner)
+ago 09 21:59:45 *	- hrcerq (staff)
+ago 09 21:59:45 *	- devnull (staff)
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- Informações:
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- - Os Nicks automaticamente expiram após 4 meses sem serem usados, liberando então para outros que queiram utilizar.
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- - Se precisar de ajuda, não hesite em perguntar no canal #ajuda.
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- - Sinta-se a vontade para criar seu próprio canal para as pessoas falarem do mesmo assunto!
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- - Primeira vez no servidor?
+ago 09 21:59:45 *	-   Aproveite e registre seu nick: /msg NickServ register EMAIL SENHA
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- Novidades:
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- - IRC rodando tambem sob a rede onion: slack265fbszrg7eyagbc3aat6eiqpcqwivixoakzlsuphzyw422huyd.onion
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- Bom proveito!
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	- Slackjeff IRC Server
+ago 09 21:59:45 *	- ---------------------------------------------------------------------
+ago 09 21:59:45 *	- 
+ago 09 21:59:45 *	End of /MOTD command.
+ago 09 21:59:45 *	kacz ajustou os modos +i em kacz
+ago 09 21:59:45 *	kacz ajustou os modos +w em kacz
+ago 09 21:59:45 *	kacz ajustou os modos +x em kacz
+ago 09 21:59:45 *	kacz ajustou os modos +z em kacz
+ago 09 21:59:44 -NickServ-	This nickname is registered and protected.  If it is your
+ago 09 21:59:44 -NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+ago 09 21:59:44 -NickServ-	please choose a different nick.
+ago 09 21:59:44 -NickServ-	If you do not change within 1 minute, I will change your nick.
+ago 09 21:59:44 -Global-	[Logon News - Apr 27 18:00:51 2023 -03] Já conhece o Poison Linux? Distribuição GNU/Linux do Slackjeff. Entrem: #poisonlinux Saiba mais em https://poisonlinux.sourceforge.io
+ago 09 22:00:00 >NickServ<	identify ****
+ago 09 22:00:00 -NickServ-	Password accepted - you are now recognized.
+ago 09 22:00:01 *	You are now logged in as kacz.
+ago 09 22:00:00 *	NickServ ajustou os modos +r em kacz
+ago 09 22:06:51 Sysinfo plugin descarregado
+ago 09 22:06:51 Perl interface unloaded
+ago 09 22:06:51 Checksum plugin unloaded
+**** REGISTRO FINALIZANDO EM Wed Aug  9 22:06:51 2023
+

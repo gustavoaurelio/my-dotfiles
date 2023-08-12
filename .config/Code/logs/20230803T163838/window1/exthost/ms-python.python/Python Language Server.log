@@ -1,0 +1,50 @@
+2023-08-03 16:38:41.020 [info] [Info  - 16:38:41] (48901) Pylance language server 2023.7.40 (pyright b917b7a5) starting
+2023-08-03 16:38:41.020 [info] [Info  - 16:38:41] (48901) Server root directory: /home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-08-03 16:38:41.027 [info] [Info  - 16:38:41] (48901) Starting service instance "python"
+2023-08-03 16:38:41.058 [info] [Info  - 16:38:41] (48901) Setting pythonPath for service "python": "/home/gustavo/projetos/python/env/bin/python"
+2023-08-03 16:38:41.060 [info] [Warn  - 16:38:41] (48901) stubPath /home/gustavo/projetos/python/typings is not a valid directory.
+2023-08-03 16:38:41.077 [info] [Info  - 16:38:41] (48901) Assuming Python version 3.11
+2023-08-03 16:38:41.142 [info] [Info  - 16:38:41] (48901) Auto-excluding /home/gustavo/projetos/python/env
+2023-08-03 16:38:41.144 [info] [Info  - 16:38:41] (48901) Found 1 source file
+2023-08-03 16:38:41.591 [info] [Info  - 16:38:41] (48901) Background analysis(1) root directory: /home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-08-03 16:38:41.591 [info] [Info  - 16:38:41] (48901) Background analysis(1) started
+2023-08-03 16:38:41.592 [info] [Info  - 16:38:41] (48901) Indexer background runner(2) root directory: /home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2023.7.40/dist (index)
+2023-08-03 16:38:41.592 [info] [Info  - 16:38:41] (48901) Indexing(2) started
+2023-08-03 16:38:42.114 [info] [Info  - 16:38:42] (48901) scanned(2) 14 files over 1 exec env
+2023-08-03 16:38:42.293 [info] [Info  - 16:38:42] (48901) indexed(2) 4 files over 1 exec env
+2023-08-03 16:38:42.294 [info] [Info  - 16:38:42] (48901) Indexing finished(2).
+2023-08-03 16:38:52.090 [info] [Info  - 16:38:52] (48999) Pylance language server 2023.7.40 (pyright b917b7a5) starting
+2023-08-03 16:38:52.090 [info] [Info  - 16:38:52] (48999) Server root directory: /home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-08-03 16:38:52.097 [info] [Info  - 16:38:52] (48999) Starting service instance "python"
+2023-08-03 16:38:52.115 [info] [Info  - 16:38:52] (48999) Setting pythonPath for service "python": "/home/gustavo/projetos/python/env/bin/python"
+2023-08-03 16:38:52.116 [info] [Warn  - 16:38:52] (48999) stubPath /home/gustavo/projetos/python/typings is not a valid directory.
+2023-08-03 16:38:52.134 [info] [Info  - 16:38:52] (48999) Assuming Python version 3.11
+2023-08-03 16:38:52.178 [info] [Info  - 16:38:52] (48999) Auto-excluding /home/gustavo/projetos/python/env
+2023-08-03 16:38:52.179 [info] [Info  - 16:38:52] (48999) Found 1 source file
+2023-08-03 16:38:52.390 [info] [Info  - 16:38:52] (48999) Background analysis(1) root directory: /home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-08-03 16:38:52.391 [info] [Info  - 16:38:52] (48999) Background analysis(1) started
+2023-08-03 16:38:52.502 [info] [Info  - 16:38:52] (48999) Indexer background runner(2) root directory: /home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2023.7.40/dist (index)
+2023-08-03 16:38:52.502 [info] [Info  - 16:38:52] (48999) Indexing(2) started
+2023-08-03 16:38:52.749 [info] [Info  - 16:38:52] (48999) scanned(2) 14 files over 1 exec env
+2023-08-03 16:38:52.860 [info] [Info  - 16:38:52] (48999) indexed(2) 4 files over 1 exec env
+2023-08-03 16:38:52.860 [info] [Info  - 16:38:52] (48999) Indexing finished(2).
+2023-08-03 16:56:59.131 [info] [Info  - 16:56:59] (50354) Pylance language server 2023.7.40 (pyright b917b7a5) starting
+2023-08-03 16:56:59.131 [info] [Info  - 16:56:59] (50354) Server root directory: /home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-08-03 16:56:59.137 [info] [Info  - 16:56:59] (50354) Starting service instance "python"
+2023-08-03 16:56:59.157 [info] [Info  - 16:56:59] (50354) Setting pythonPath for service "python": "/home/gustavo/projetos/python/env/bin/python"
+2023-08-03 16:56:59.159 [info] [Warn  - 16:56:59] (50354) stubPath /home/gustavo/projetos/python/typings is not a valid directory.
+2023-08-03 16:56:59.176 [info] [Info  - 16:56:59] (50354) Assuming Python version 3.11
+2023-08-03 16:56:59.220 [info] [Info  - 16:56:59] (50354) Auto-excluding /home/gustavo/projetos/python/env
+2023-08-03 16:56:59.221 [info] [Info  - 16:56:59] (50354) Found 1 source file
+2023-08-03 16:56:59.431 [info] [Info  - 16:56:59] (50354) Background analysis(1) root directory: /home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-08-03 16:56:59.432 [info] [Info  - 16:56:59] (50354) Background analysis(1) started
+2023-08-03 16:56:59.534 [info] [Info  - 16:56:59] (50354) Indexer background runner(2) root directory: /home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2023.7.40/dist (index)
+2023-08-03 16:56:59.534 [info] [Info  - 16:56:59] (50354) Indexing(2) started
+2023-08-03 16:56:59.780 [info] [Info  - 16:56:59] (50354) scanned(2) 14 files over 1 exec env
+2023-08-03 16:56:59.893 [info] [Info  - 16:56:59] (50354) indexed(2) 4 files over 1 exec env
+2023-08-03 16:56:59.894 [info] [Info  - 16:56:59] (50354) Indexing finished(2).
+2023-08-03 17:07:56.660 [info] [Info  - 17:07:56] (50354) Indexer background runner(3) root directory: /home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2023.7.40/dist (refresh)
+2023-08-03 17:07:56.660 [info] [Info  - 17:07:56] (50354) Indexing(3) started
+2023-08-03 17:07:56.846 [info] [Info  - 17:07:56] (50354) scanned(3) 14 files over 1 exec env
+2023-08-03 17:07:56.957 [info] [Info  - 17:07:56] (50354) indexed(3) 4 files over 1 exec env
+2023-08-03 17:07:56.958 [info] [Info  - 17:07:56] (50354) Indexing finished(3).

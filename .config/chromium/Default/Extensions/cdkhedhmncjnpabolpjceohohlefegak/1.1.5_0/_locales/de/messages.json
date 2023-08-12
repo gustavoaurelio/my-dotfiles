@@ -1,0 +1,335 @@
+{
+   "extensionDescription": {
+      "description": "Description of the extension.",
+      "message": "Die Startpage Privatsphäre-Schutz Erweiterung bietet anonyme Suche und Online-Datenschutz."
+   },
+   "extensionName": {
+      "description": "Name of the extension.",
+      "message": "Startpage Privatsphäre-Schutz"
+   },
+   "extensionUrlLanguage": {
+      "description": "Search Engine Language",
+      "message": "deutsche"
+   },
+   "popupFooterFeedbackLink": {
+      "message": "Feedback"
+   },
+   "popupFooterHelpLink": {
+      "message": "Hilfe"
+   },
+   "popupFooterSettingsLink": {
+      "message": "Einstellungen"
+   },
+   "popupHeaderBackBtn": {
+      "message": "Zurück"
+   },
+   "popupHeaderSearchPlaceholder": {
+      "message": "Privat im Internet suchen"
+   },
+   "popupHeaderSearchPlaceholderShort": {
+      "message": "Suche"
+   },
+   "popupHomeBlockedLabel": {
+      "message": "Blockiert"
+   },
+   "popupHomeCookiesLabel": {
+      "message": "Cookies"
+   },
+   "popupHomeManageTrackersBtn": {
+      "message": "Tracker und Cookies verwalten"
+   },
+   "popupHomeNACallout": {
+      "message": "Der Schutz der Privatsphäre ist auf dieser Seite nicht anwendbar. Wir bewerten nur reguläre Websites."
+   },
+   "popupHomeNotBlockedLabel": {
+      "message": "Nicht blockiert"
+   },
+   "popupHomeScoreFiveDescription": {
+      "message": "Hurra! Keine Tracker vorhanden!"
+   },
+   "popupHomeScoreFourDescription": {
+      "message": "Enthält einige Drittanbieter-Trackern und/oder einen Tracker mit hohem Risiko."
+   },
+   "popupHomeScoreLabel": {
+      "message": "Datenschutzbewertung"
+   },
+   "popupHomeScoreNA": {
+      "message": "Datenschutzbewertung\nnicht anwendbar"
+   },
+   "popupHomeScoreOneDescription": {
+      "message": "Vorsicht: enthält mehrere Tracker, darunter Tracker mit hohem Risiko. HTTPS wird evtl. nicht verwendet."
+   },
+   "popupHomeScoreThreeDescription": {
+      "message": "Enthält Third-Party-Tracker, darunter einen oder mehrere Tracker mit hohem Risiko."
+   },
+   "popupHomeScoreTwoDescription": {
+      "message": "Die Website kann Teil eines großen Tracking-Netzwerks sein und/oder Tracker mit hohem Risko enthalten."
+   },
+   "popupHomeToggleLabel": {
+      "message": "Datenschutz"
+   },
+   "popupHomeToggleOff": {
+      "message": "AUS"
+   },
+   "popupHomeToggleOn": {
+      "message": "AN"
+   },
+   "popupHomeTrackersLabel": {
+      "message": "Tracker"
+   },
+   "popupManageTrackersAllowAllLabel": {
+      "message": "Alle\nzulassen"
+   },
+   "popupManageTrackersBlockAllLabel": {
+      "message": "Alle\nblockieren"
+   },
+   "popupManageTrackersBlockCookiesLabel": {
+      "message": "Keine Cookies erlauben"
+   },
+   "popupManageTrackersDomainLabel": {
+      "message": "Domain"
+   },
+   "popupManageTrackersMajorTitle": {
+      "message": "Größere Tracker"
+   },
+   "popupManageTrackersMinorTitle": {
+      "message": "Kleinere Tracker"
+   },
+   "popupManageTrackersTitle": {
+      "message": "Tracker & Cookies verwalten"
+   },
+   "popupManageTrackersWarning": {
+      "message": "Das Blockieren dieser Domain führt zu Fehlern auf Websites."
+   },
+   "popupManageTrackersWarningCancel": {
+      "message": "Abbrechen"
+   },
+   "popupManageTrackersWarningProceed": {
+      "message": "Weiter"
+   },
+   "popupReportBlockedCookiesLabel": {
+      "message": "Cookies"
+   },
+   "popupReportBlockedTitle": {
+      "message": "Blockierte Tracker insgesamt"
+   },
+   "popupReportBlockedTrackersLabel": {
+      "message": "Tracker"
+   },
+   "popupReportBreakdownDescription": {
+      "message": "Auflistung von größeren (im Besitz eines großen Tracking-Netzwerks) gegenüber kleineren blockierten Trackern"
+   },
+   "popupReportBreakdownMajorLabel": {
+      "message": "Größere Tracker"
+   },
+   "popupReportBreakdownMinorLabel": {
+      "message": "Kleinere Tracker"
+   },
+   "popupReportBreakdownTitle": {
+      "message": "Blockierte Tracker nach Typ"
+   },
+   "popupReportDisclaimer": {
+      "message": "Diese Daten werden in deinem Browser gespeichert und können von Startpage nicht eingesehen werden."
+   },
+   "popupReportResetBtn": {
+      "message": "Datenschutzbericht zurücksetzen"
+   },
+   "popupReportScoreDescription": {
+      "message": "Auflistung von größeren (im Besitz eines großen Tracking-Netzwerks) gegenüber kleineren blockierten Trackern"
+   },
+   "popupReportScoreTitle": {
+      "message": "Zusammenfassung deiner Datenschutzbewertungen"
+   },
+   "popupReportTitle": {
+      "message": "Datenschutzbericht  "
+   },
+   "privacyReportBtn": {
+      "message": "Bericht-Funktion"
+   },
+   "searchEngineName": {
+      "description": "Search Engine Name",
+      "message": "Startpage - Deutsche"
+   },
+   "settingsAllowlistTabAddSiteBtn": {
+      "message": "Zu Liste hinzufügen"
+   },
+   "settingsAllowlistTabAddSiteDescription": {
+      "message": "Hier werden die URLS angezeigt, die der Erlaubtliste hinzugefügt wurden."
+   },
+   "settingsAllowlistTabAddWidgetLabel": {
+      "message": "Widget der Erlaubtliste hinzufügen"
+   },
+   "settingsAllowlistTabAllowedSitesLabel": {
+      "message": "Erlaubte Seiten verwalten"
+   },
+   "settingsAllowlistTabAllowedWidgetsLabel": {
+      "message": "Zugelassene Widgets"
+   },
+   "settingsAllowlistTabDescription": {
+      "message": "Der Startpage Privatsphäre-Schutz wird auf den folgenden Seiten ausgeschaltet. Die hier aufgelisteten Seiten werden von der Erweiterung nicht blockiert, Do Not Track- oder Global Privacy Control-Signale werden nicht gesendet."
+   },
+   "settingsAllowlistTabEnterURLLabel": {
+      "message": "Füge URL der Erlaubtliste hinzu"
+   },
+   "settingsAllowlistTabLabel": {
+      "message": "Zugelassene Seiten & Widgets"
+   },
+   "settingsAllowlistTabLearnMoreLink": {
+      "message": "Mehr erfahren"
+   },
+   "settingsAllowlistTabRemoveBtn": {
+      "message": "Entfernen"
+   },
+   "settingsAllowlistTabSiteWidgetListLabel": {
+      "message": "Hier werden die URLS angezeigt, die der Erlaubtliste hinzugefügt wurden."
+   },
+   "settingsAllowlistTabSiteWidgetsLabel": {
+      "message": "Widgets auf folgenden Domains zugelassen"
+   },
+   "settingsAllowlistTabTitle": {
+      "message": "Erlaubte Seiten verwalten"
+   },
+   "settingsAllowlistTabURLError": {
+      "message": "Bitte geben Sie eine gültige URL ein."
+   },
+   "settingsAllowlistTabWidgetDescription": {
+      "message": "Widgets auf bestimmten Domains zulassen. Video-Player wie YouTube oder Audio-Player wie SoundCloud können ein Widget sein. Nützlich auf Websites, auf denen du diese Funktion wünschst und der Quelle vertraust."
+   },
+   "settingsAllowlistTabWidgetEnableLabel": {
+      "message": "Widget blockieren"
+   },
+   "settingsAllowlistTabWidgetTitle": {
+      "message": "Erlaubte Widgets verwalten"
+   },
+   "settingsAllowlistTabWidgetsCallout": {
+      "message": "Hier werden die URLS angezeigt, die der Erlaubtliste hinzugefügt wurden."
+   },
+   "settingsPrivacyTabDNTDescription": {
+      "message": "An Websites die Signale \"Global Privacy Control\" und \"Do Not Track\" senden."
+   },
+   "settingsPrivacyTabDNTLabel": {
+      "message": "Global Privacy Control senden"
+   },
+   "settingsPrivacyTabHyperlinkDescription": {
+      "message": "Websites können mit dieser Funktion sehen, welche Links du anklickst und wohin sie führen."
+   },
+   "settingsPrivacyTabHyperlinkLabel": {
+      "message": "Hyperlink-Prüfung deaktivieren"
+   },
+   "settingsPrivacyTabLabel": {
+      "message": "Privatsphäre "
+   },
+   "settingsPrivacyTabPrefetchDescription": {
+      "message": "Hindere deinen Browser daran, Daten vorab abzurufen. Dadurch können Cookies unter Umständen blockiert werden, die für die Funktionalität der Website erforderlich sind."
+   },
+   "settingsPrivacyTabPrefetchLabel": {
+      "message": "Prefetching deaktivieren"
+   },
+   "settingsTitle": {
+      "message": "Privatsphäre-Schutz Einstellungen"
+   },
+   "settingsTrackersTabBlockedCountLabel": {
+      "message": "Die Erweiterung blockiert"
+   },
+   "settingsTrackersTabCategoryFilter": {
+      "message": "Kategorie"
+   },
+   "settingsTrackersTabFilterAllowed": {
+      "message": "Erlaubt"
+   },
+   "settingsTrackersTabFilterBlocked": {
+      "message": "Blockiert"
+   },
+   "settingsTrackersTabFilterBy": {
+      "message": "Nach $TYPE$ filtern",
+      "placeholders": {
+         "type": {
+            "content": "$1"
+         }
+      }
+   },
+   "settingsTrackersTabFilterCookiesBlocked": {
+      "message": "Cookies blockiert"
+   },
+   "settingsTrackersTabFilterDNT": {
+      "message": "DNT konform"
+   },
+   "settingsTrackersTabFilterDefault": {
+      "message": "Alle"
+   },
+   "settingsTrackersTabFilterMajorTrackers": {
+      "message": "Größere Tracker"
+   },
+   "settingsTrackersTabFilterMinorTrackers": {
+      "message": "Kleinere Tracker"
+   },
+   "settingsTrackersTabFilterUserControlled": {
+      "message": "Benutzergesteuert"
+   },
+   "settingsTrackersTabLabel": {
+      "message": "Tracker"
+   },
+   "settingsTrackersTabPotential": {
+      "message": "bekannte"
+   },
+   "settingsTrackersTabSearchPlaceholder": {
+      "message": "Suchen oder eine Domain zur Liste hinzufügen"
+   },
+   "settingsTrackersTabStatusFilter": {
+      "message": "Status"
+   },
+   "settingsTrackersTabTitle": {
+      "message": "Tracker verwalten"
+   },
+   "settingsTrackersTabTrackersLink": {
+      "message": "Tracker und Cookies."
+   },
+   "settingsTrackersTabTypeFilter": {
+      "message": "Typ"
+   },
+   "startpageTagline": {
+      "message": "Die sicherste Suchmaschine der Welt"
+   },
+   "tutorialCustomizeDescription": {
+      "message": "In einigen Fällen könnte das Blockieren von Cookies oder Domains das vollständige Laden der Website beeinträchtigen. Wenn du der Quelle vertraust, kannst du den Schutz einmalig oder dauerhaft abschalten."
+   },
+   "tutorialCustomizeTitle": {
+      "message": "Schutz einzelner Seiten festlegen"
+   },
+   "tutorialGreetingAffirm": {
+      "message": "Los geht´s!"
+   },
+   "tutorialGreetingSkip": {
+      "message": "Einleitung überspringen"
+   },
+   "tutorialGreetingTitle": {
+      "message": "Willkommen beim Startpage Privatsphäre-Schutz"
+   },
+   "tutorialManageDescription": {
+      "message": "Standardmäßig blockiert die Erweiterung bekannte Tracker und Cookies auf allen Websites. Du selbst hast aber die Kontrolle darüber, ob du bestimmte Domains oder Cookies zulässt."
+   },
+   "tutorialManageTitle": {
+      "message": "Tracker und Cookies verwalten"
+   },
+   "tutorialNextBtn": {
+      "message": "Weiter"
+   },
+   "tutorialPrevBtn": {
+      "message": "Zurück"
+   },
+   "tutorialScoreSummaryAffirmation": {
+      "message": "Los geht´s!"
+   },
+   "tutorialScoreSummaryDescription": {
+      "message": "Die Bericht-Funktion listet alle Bewertungen der Seiten, die du besucht hast, auf und zeigt eine Übersicht über alle Tracker und Cookies."
+   },
+   "tutorialScoreSummaryTitle": {
+      "message": "Zusammenfassung der Datenschutzbewertung"
+   },
+   "tutorialScoringDescription": {
+      "message": "Damit du das Risiko besser einschätzen kannst, geben wir jeder besuchten Website eine Datenschutzbewertung zwischen 1 und 5. Je höher der Datenschutz, desto höher die Bewertung."
+   },
+   "tutorialScoringTitle": {
+      "message": "Website-Datenschutzbewertung"
+   }
+}

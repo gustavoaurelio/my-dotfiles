@@ -1,0 +1,341 @@
+[2023-07-30 21:26:58.080] [info]  Checking for update
+[2023-07-30 21:26:58.088] [info]  Generated new staging user ID: 497e448d-ecaa-5b4e-a8b1-ac225fb5a84d
+[2023-07-30 21:27:00.173] [info]  Update for version 2023.7.1 is not available (latest version: 2023.7.1, downgrade is disallowed).
+[2023-07-30 21:27:34.050] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+    at BiometricsService.<anonymous> (/tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:47100:55)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:47008:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:47004:12)
+    at BiometricsService.deleteBiometricKey (/tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:47098:16)
+    at DesktopCredentialStorageListener.<anonymous> (/tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:47282:45)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:47159:71
+    at new Promise (<anonymous>)
+[2023-07-30 21:27:34.054] [info]  Error: No password found
+[2023-07-30 21:27:34.054] [info]  Error: No password found
+[2023-07-30 21:27:34.058] [info]  Error: No password found
+[2023-07-30 21:27:34.058] [info]  Error: No password found
+[2023-07-30 21:27:34.059] [info]  Error: No password found
+[2023-07-30 21:27:34.063] [info]  Error: No password found
+[2023-07-30 21:27:34.063] [info]  Error: No password found
+[2023-07-30 21:27:34.074] [info]  Error: No password found
+[2023-07-30 21:27:34.074] [info]  Error: No password found
+[2023-07-30 21:27:34.076] [info]  Error: No password found
+[2023-07-30 21:27:34.076] [info]  Error: No password found
+[2023-07-30 21:27:34.086] [info]  Error: No password found
+[2023-07-30 21:27:34.107] [info]  Error: No password found
+[2023-07-30 21:27:34.109] [info]  Error: No password found
+[2023-07-30 21:27:34.112] [info]  Error: No password found
+[2023-07-30 21:27:34.237] [info]  Error: No password found
+[2023-07-30 21:27:34.266] [info]  Error: No password found
+[2023-07-30 21:27:34.291] [info]  Error: No password found
+[2023-07-30 21:27:34.293] [info]  Error: No password found
+[2023-07-30 21:27:35.042] [info]  Error: No password found
+[2023-07-30 21:27:35.052] [info]  Error: No password found
+[2023-07-30 21:27:35.063] [info]  Error: No password found
+[2023-07-30 21:27:35.072] [info]  Error: No password found
+[2023-07-30 21:27:35.081] [info]  Error: No password found
+[2023-07-30 21:27:35.082] [info]  Error: No password found
+[2023-07-30 21:27:35.086] [info]  Error: No password found
+[2023-07-30 21:27:35.106] [info]  Error: No password found
+[2023-07-30 21:27:35.115] [info]  Error: No password found
+[2023-07-30 21:27:35.117] [info]  Error: No password found
+[2023-07-30 21:27:35.119] [info]  Error: No password found
+[2023-07-30 21:27:35.121] [info]  Error: No password found
+[2023-07-30 21:27:35.123] [info]  Error: No password found
+[2023-07-30 21:27:35.288] [info]  Error: No password found
+[2023-07-30 21:27:43.755] [info]  Error: No password found
+[2023-07-30 21:27:43.757] [info]  Error: No password found
+[2023-07-30 21:27:51.416] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+    at BiometricsService.<anonymous> (/tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:47047:55)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:47008:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:47004:12)
+    at BiometricsService.osSupportsBiometric (/tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:47046:16)
+    at DesktopCredentialStorageListener.<anonymous> (/tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:47231:59)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:47159:71
+    at new Promise (<anonymous>)
+[2023-07-30 21:27:53.755] [info]  Error: No password found
+[2023-07-30 21:27:55.731] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:46709:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:46483:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:46479:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:46704:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:46638:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarPdOH1Z/resources/app.asar/main.js:46483:71
+    at new Promise (<anonymous>)
+[2023-07-30 21:28:02.012] [info]  Error: No password found
+[2023-07-30 21:28:02.035] [info]  Error: No password found
+[2023-07-30 21:28:02.036] [info]  Error: No password found
+[2023-07-30 21:28:02.037] [info]  Error: No password found
+[2023-07-30 21:28:02.041] [info]  Error: No password found
+[2023-07-30 21:28:02.050] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+    at BiometricsService.<anonymous> (/tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:47047:55)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:47008:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:47004:12)
+    at BiometricsService.osSupportsBiometric (/tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:47046:16)
+    at DesktopCredentialStorageListener.<anonymous> (/tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:47231:59)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:47159:71
+    at new Promise (<anonymous>)
+[2023-07-30 21:28:02.051] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+    at BiometricsService.<anonymous> (/tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:47047:55)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:47008:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:47004:12)
+    at BiometricsService.osSupportsBiometric (/tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:47046:16)
+    at BiometricsService.<anonymous> (/tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:47057:58)
+    at Generator.next (<anonymous>)
+    at fulfilled (/tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:47005:58)
+[2023-07-30 21:28:02.335] [info]  Error: No password found
+[2023-07-30 21:28:03.004] [info]  Error: No password found
+[2023-07-30 21:28:03.012] [info]  Error: No password found
+[2023-07-30 21:28:03.026] [info]  Error: No password found
+[2023-07-30 21:28:03.028] [info]  Error: No password found
+[2023-07-30 21:28:03.037] [info]  Error: No password found
+[2023-07-30 21:28:03.038] [info]  Error: No password found
+[2023-07-30 21:28:03.038] [info]  Error: No password found
+[2023-07-30 21:28:03.046] [info]  Error: No password found
+[2023-07-30 21:28:03.046] [info]  Error: No password found
+[2023-07-30 21:28:03.047] [info]  Error: No password found
+[2023-07-30 21:28:03.055] [info]  Error: No password found
+[2023-07-30 21:28:03.056] [info]  Error: No password found
+[2023-07-30 21:28:03.060] [info]  Error: No password found
+[2023-07-30 21:28:03.060] [info]  Error: No password found
+[2023-07-30 21:28:03.063] [info]  Error: No password found
+[2023-07-30 21:28:03.230] [info]  Error: No password found
+[2023-07-30 21:28:05.008] [info]  Error: No password found
+[2023-07-30 21:28:06.456] [info]  Checking for update
+[2023-07-30 21:28:07.397] [info]  Update for version 2023.7.1 is not available (latest version: 2023.7.1, downgrade is disallowed).
+[2023-07-30 21:28:12.002] [info]  Error: No password found
+[2023-07-30 21:28:18.593] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:46709:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:46483:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:46479:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:46704:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:46638:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar48MG7o/resources/app.asar/main.js:46483:71
+    at new Promise (<anonymous>)
+[2023-08-03 15:51:32.613] [info]  Error: No password found
+[2023-08-03 15:51:32.638] [info]  Error: No password found
+[2023-08-03 15:51:32.639] [info]  Error: No password found
+[2023-08-03 15:51:32.642] [info]  Error: No password found
+[2023-08-03 15:51:32.646] [info]  Error: No password found
+[2023-08-03 15:51:32.656] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47047:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47008:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:47004:12)
+    at BiometricsService.osSupportsBiometric (/usr/lib/bitwarden/app.asar/main.js:47046:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47231:59)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47159:71
+    at new Promise (<anonymous>)
+[2023-08-03 15:51:32.658] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47047:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47008:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:47004:12)
+    at BiometricsService.osSupportsBiometric (/usr/lib/bitwarden/app.asar/main.js:47046:16)
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47057:58)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/bitwarden/app.asar/main.js:47005:58)
+[2023-08-03 15:51:33.544] [info]  Error: No password found
+[2023-08-03 15:51:33.626] [info]  Error: No password found
+[2023-08-03 15:51:33.641] [info]  Error: No password found
+[2023-08-03 15:51:33.650] [info]  Error: No password found
+[2023-08-03 15:51:33.660] [info]  Error: No password found
+[2023-08-03 15:51:33.667] [info]  Error: No password found
+[2023-08-03 15:51:33.668] [info]  Error: No password found
+[2023-08-03 15:51:33.668] [info]  Error: No password found
+[2023-08-03 15:51:33.676] [info]  Error: No password found
+[2023-08-03 15:51:33.677] [info]  Error: No password found
+[2023-08-03 15:51:33.677] [info]  Error: No password found
+[2023-08-03 15:51:33.686] [info]  Error: No password found
+[2023-08-03 15:51:33.687] [info]  Error: No password found
+[2023-08-03 15:51:33.691] [info]  Error: No password found
+[2023-08-03 15:51:33.692] [info]  Error: No password found
+[2023-08-03 15:51:33.695] [info]  Error: No password found
+[2023-08-03 15:51:33.858] [info]  Error: No password found
+[2023-08-03 15:51:35.610] [info]  Error: No password found
+[2023-08-03 15:51:42.600] [info]  Error: No password found
+[2023-08-03 15:51:42.793] [info]  Error: No password found
+[2023-08-03 15:51:42.794] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47100:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47008:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:47004:12)
+    at BiometricsService.deleteBiometricKey (/usr/lib/bitwarden/app.asar/main.js:47098:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47282:45)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47159:71
+    at new Promise (<anonymous>)
+[2023-08-03 15:51:42.797] [info]  Error: No password found
+[2023-08-03 15:51:42.798] [info]  Error: No password found
+[2023-08-03 15:51:42.798] [info]  Error: No password found
+[2023-08-03 15:51:42.808] [info]  Error: No password found
+[2023-08-03 15:51:42.808] [info]  Error: No password found
+[2023-08-03 15:51:42.830] [info]  Error: No password found
+[2023-08-03 15:51:42.860] [info]  Error: No password found
+[2023-08-03 15:51:42.864] [info]  Error: No password found
+[2023-08-03 15:51:52.600] [info]  Error: No password found
+[2023-08-03 15:51:52.603] [info]  Error: No password found
+[2023-08-03 15:52:02.601] [info]  Error: No password found
+[2023-08-03 15:52:12.601] [info]  Error: No password found
+[2023-08-03 15:52:22.601] [info]  Error: No password found
+[2023-08-03 15:52:32.601] [info]  Error: No password found
+[2023-08-03 15:52:42.601] [info]  Error: No password found
+[2023-08-03 15:52:52.600] [info]  Error: No password found
+[2023-08-03 15:53:02.600] [info]  Error: No password found
+[2023-08-03 15:53:12.601] [info]  Error: No password found
+[2023-08-03 15:53:22.601] [info]  Error: No password found
+[2023-08-03 15:53:32.601] [info]  Error: No password found
+[2023-08-03 15:53:42.601] [info]  Error: No password found
+[2023-08-03 15:53:52.600] [info]  Error: No password found
+[2023-08-03 15:54:02.601] [info]  Error: No password found
+[2023-08-03 15:54:12.601] [info]  Error: No password found
+[2023-08-03 15:54:22.600] [info]  Error: No password found
+[2023-08-03 15:54:32.600] [info]  Error: No password found
+[2023-08-03 15:54:42.601] [info]  Error: No password found
+[2023-08-03 15:54:52.600] [info]  Error: No password found
+[2023-08-03 15:55:02.601] [info]  Error: No password found
+[2023-08-03 15:55:12.601] [info]  Error: No password found
+[2023-08-03 15:55:22.600] [info]  Error: No password found
+[2023-08-03 15:55:32.601] [info]  Error: No password found
+[2023-08-03 15:55:42.601] [info]  Error: No password found
+[2023-08-03 15:55:52.600] [info]  Error: No password found
+[2023-08-03 15:56:02.600] [info]  Error: No password found
+[2023-08-03 15:56:12.603] [info]  Error: No password found
+[2023-08-03 15:56:22.600] [info]  Error: No password found
+[2023-08-03 15:56:32.600] [info]  Error: No password found
+[2023-08-03 15:56:42.601] [info]  Error: No password found
+[2023-08-03 15:56:52.600] [info]  Error: No password found
+[2023-08-03 15:57:02.600] [info]  Error: No password found
+[2023-08-03 15:57:12.600] [info]  Error: No password found
+[2023-08-03 15:57:22.600] [info]  Error: No password found
+[2023-08-03 15:57:32.601] [info]  Error: No password found
+[2023-08-03 15:57:42.601] [info]  Error: No password found
+[2023-08-03 15:57:52.601] [info]  Error: No password found
+[2023-08-03 15:58:02.600] [info]  Error: No password found
+[2023-08-03 15:58:12.601] [info]  Error: No password found
+[2023-08-03 15:58:22.600] [info]  Error: No password found
+[2023-08-03 15:58:32.601] [info]  Error: No password found
+[2023-08-03 15:58:42.601] [info]  Error: No password found
+[2023-08-03 15:58:52.600] [info]  Error: No password found
+[2023-08-03 15:59:02.601] [info]  Error: No password found
+[2023-08-03 15:59:12.600] [info]  Error: No password found
+[2023-08-03 15:59:22.600] [info]  Error: No password found
+[2023-08-03 15:59:32.600] [info]  Error: No password found
+[2023-08-03 15:59:42.600] [info]  Error: No password found
+[2023-08-03 15:59:52.600] [info]  Error: No password found
+[2023-08-03 16:00:02.600] [info]  Error: No password found
+[2023-08-03 16:00:12.600] [info]  Error: No password found
+[2023-08-03 16:00:22.600] [info]  Error: No password found
+[2023-08-03 16:00:32.601] [info]  Error: No password found
+[2023-08-03 16:00:42.600] [info]  Error: No password found
+[2023-08-03 16:00:52.600] [info]  Error: No password found
+[2023-08-03 16:01:02.601] [info]  Error: No password found
+[2023-08-03 16:01:12.600] [info]  Error: No password found
+[2023-08-03 16:01:14.868] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:46709:36)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:46483:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/usr/lib/bitwarden/app.asar/main.js:46479:12)
+    at WindowMain.updateWindowState (/usr/lib/bitwarden/app.asar/main.js:46704:16)
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:46638:28)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:46483:71
+    at new Promise (<anonymous>)
+[2023-08-04 04:22:23.884] [info]  Error: No password found
+[2023-08-04 04:22:23.914] [info]  Error: No password found
+[2023-08-04 04:22:23.915] [info]  Error: No password found
+[2023-08-04 04:22:23.916] [info]  Error: No password found
+[2023-08-04 04:22:23.920] [info]  Error: No password found
+[2023-08-04 04:22:23.929] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47047:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47008:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:47004:12)
+    at BiometricsService.osSupportsBiometric (/usr/lib/bitwarden/app.asar/main.js:47046:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47231:59)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47159:71
+    at new Promise (<anonymous>)
+[2023-08-04 04:22:23.930] [info]  TypeError: Cannot read properties of undefined (reading 'osSupportsBiometric')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47047:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47008:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:47004:12)
+    at BiometricsService.osSupportsBiometric (/usr/lib/bitwarden/app.asar/main.js:47046:16)
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47057:58)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/bitwarden/app.asar/main.js:47005:58)
+[2023-08-04 04:22:28.783] [info]  Error: No password found
+[2023-08-04 04:22:29.660] [info]  Error: No password found
+[2023-08-04 04:22:30.213] [info]  Error: No password found
+[2023-08-04 04:22:30.612] [info]  Error: No password found
+[2023-08-04 04:22:30.628] [info]  Error: No password found
+[2023-08-04 04:22:30.643] [info]  Error: No password found
+[2023-08-04 04:22:30.648] [info]  Error: No password found
+[2023-08-04 04:22:30.649] [info]  Error: No password found
+[2023-08-04 04:22:30.654] [info]  Error: No password found
+[2023-08-04 04:22:30.662] [info]  Error: No password found
+[2023-08-04 04:22:30.662] [info]  Error: No password found
+[2023-08-04 04:22:30.665] [info]  Error: No password found
+[2023-08-04 04:22:30.683] [info]  Error: No password found
+[2023-08-04 04:22:30.683] [info]  Error: No password found
+[2023-08-04 04:22:30.687] [info]  Error: No password found
+[2023-08-04 04:22:30.689] [info]  Error: No password found
+[2023-08-04 04:22:30.691] [info]  Error: No password found
+[2023-08-04 04:22:30.849] [info]  Error: No password found
+[2023-08-04 04:22:33.641] [info]  Error: No password found
+[2023-08-04 04:22:35.429] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47100:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47008:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:47004:12)
+    at BiometricsService.deleteBiometricKey (/usr/lib/bitwarden/app.asar/main.js:47098:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47282:45)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47159:71
+    at new Promise (<anonymous>)
+[2023-08-04 04:22:35.430] [info]  Error: No password found
+[2023-08-04 04:22:36.668] [info]  Error: No password found
+[2023-08-04 04:22:36.669] [info]  Error: No password found
+[2023-08-04 04:22:36.669] [info]  Error: No password found
+[2023-08-04 04:22:36.692] [info]  Error: No password found
+[2023-08-04 04:22:36.700] [info]  Error: No password found
+[2023-08-04 04:22:36.707] [info]  Error: No password found
+[2023-08-04 04:22:36.780] [info]  Error: No password found
+[2023-08-04 04:22:36.782] [info]  Error: No password found
+[2023-08-04 04:22:45.520] [info]  Error: No password found
+[2023-08-04 04:22:45.522] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:46709:36)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:46483:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/usr/lib/bitwarden/app.asar/main.js:46479:12)
+    at WindowMain.updateWindowState (/usr/lib/bitwarden/app.asar/main.js:46704:16)
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:46638:28)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:46483:71
+    at new Promise (<anonymous>)

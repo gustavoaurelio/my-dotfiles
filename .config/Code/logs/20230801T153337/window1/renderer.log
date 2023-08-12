@@ -1,0 +1,9 @@
+2023-08-01 15:33:38.217 [error] Error: The editor could not be opened because the file was not found.
+    at Eh.bc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2290:19256)
+    at async Eh.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2290:18343)
+    at async e.$Kub.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:20301)
+    at async e.$Kub.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:18969)
+    at async e.$Kub.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:17957)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2473:12434
+2023-08-01 15:33:40.948 [info] [perf] Render performance baseline is 24ms
+2023-08-01 15:33:48.070 [info] [perf] Render performance baseline is 24ms

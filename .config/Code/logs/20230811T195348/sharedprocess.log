@@ -1,0 +1,43 @@
+2023-08-11 19:53:53.777 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2023-08-11 19:53:54.285 [info] Installing extension: ms-vscode.vscode-typescript-next
+2023-08-11 19:53:56.255 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.vscode-typescript-next
+2023-08-11 19:53:56.514 [info] Extracted extension to file:///home/gustavo/.vscode/extensions/ms-vscode.vscode-typescript-next-5.3.20230810: ms-vscode.vscode-typescript-next
+2023-08-11 19:53:56.516 [info] Renamed to /home/gustavo/.vscode/extensions/ms-vscode.vscode-typescript-next-5.3.20230810
+2023-08-11 19:53:56.517 [info] Extracting extension completed. ms-vscode.vscode-typescript-next
+2023-08-11 19:53:56.525 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+2023-08-11 19:53:56.526 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.3.20230809
+2023-08-11 19:54:39.575 [info] Getting Manifest... rust-lang.rust-analyzer
+2023-08-11 19:54:39.582 [info] Installing extension: rust-lang.rust-analyzer
+2023-08-11 19:54:41.752 [warning] Extension signature verification failed with error 'UnknownError': rust-lang.rust-analyzer
+2023-08-11 19:54:42.010 [info] Extracted extension to file:///home/gustavo/.vscode/extensions/rust-lang.rust-analyzer-0.3.1615-linux-x64: rust-lang.rust-analyzer
+2023-08-11 19:54:42.013 [info] Renamed to /home/gustavo/.vscode/extensions/rust-lang.rust-analyzer-0.3.1615-linux-x64
+2023-08-11 19:54:42.014 [info] Extracting extension completed. rust-lang.rust-analyzer
+2023-08-11 19:54:42.019 [info] Extension installed successfully: rust-lang.rust-analyzer
+2023-08-11 19:55:03.070 [info] Getting Manifest... dustypomerleau.rust-syntax
+2023-08-11 19:55:03.074 [info] Installing extension: dustypomerleau.rust-syntax
+2023-08-11 19:55:03.518 [warning] Extension signature verification failed with error 'UnknownError': dustypomerleau.rust-syntax
+2023-08-11 19:55:03.537 [info] Extracted extension to file:///home/gustavo/.vscode/extensions/dustypomerleau.rust-syntax-0.6.1: dustypomerleau.rust-syntax
+2023-08-11 19:55:03.540 [info] Renamed to /home/gustavo/.vscode/extensions/dustypomerleau.rust-syntax-0.6.1
+2023-08-11 19:55:03.540 [info] Extracting extension completed. dustypomerleau.rust-syntax
+2023-08-11 19:55:03.545 [info] Extension installed successfully: dustypomerleau.rust-syntax
+2023-08-11 19:55:13.958 [info] Getting Manifest... tamasfe.even-better-toml
+2023-08-11 19:55:13.962 [info] Installing extension: tamasfe.even-better-toml
+2023-08-11 19:55:15.096 [warning] Extension signature verification failed with error 'UnknownError': tamasfe.even-better-toml
+2023-08-11 19:55:15.161 [info] Extracted extension to file:///home/gustavo/.vscode/extensions/tamasfe.even-better-toml-0.19.2: tamasfe.even-better-toml
+2023-08-11 19:55:15.167 [info] Renamed to /home/gustavo/.vscode/extensions/tamasfe.even-better-toml-0.19.2
+2023-08-11 19:55:15.170 [info] Extracting extension completed. tamasfe.even-better-toml
+2023-08-11 19:55:15.177 [info] Extension installed successfully: tamasfe.even-better-toml
+2023-08-11 19:55:23.002 [info] Getting Manifest... jscearcy.rust-doc-viewer
+2023-08-11 19:55:23.008 [info] Installing extension: jscearcy.rust-doc-viewer
+2023-08-11 19:55:23.575 [warning] Extension signature verification failed with error 'UnknownError': jscearcy.rust-doc-viewer
+2023-08-11 19:55:23.607 [info] Extracted extension to file:///home/gustavo/.vscode/extensions/jscearcy.rust-doc-viewer-4.0.0: jscearcy.rust-doc-viewer
+2023-08-11 19:55:23.608 [info] Renamed to /home/gustavo/.vscode/extensions/jscearcy.rust-doc-viewer-4.0.0
+2023-08-11 19:55:23.609 [info] Extracting extension completed. jscearcy.rust-doc-viewer
+2023-08-11 19:55:23.613 [info] Extension installed successfully: jscearcy.rust-doc-viewer
+2023-08-11 19:55:36.397 [info] Getting Manifest... mooman219.rust-assist
+2023-08-11 19:55:36.401 [info] Installing extension: mooman219.rust-assist
+2023-08-11 19:55:36.838 [warning] Extension signature verification failed with error 'UnknownError': mooman219.rust-assist
+2023-08-11 19:55:36.851 [info] Extracted extension to file:///home/gustavo/.vscode/extensions/mooman219.rust-assist-0.2.3: mooman219.rust-assist
+2023-08-11 19:55:36.852 [info] Renamed to /home/gustavo/.vscode/extensions/mooman219.rust-assist-0.2.3
+2023-08-11 19:55:36.853 [info] Extracting extension completed. mooman219.rust-assist
+2023-08-11 19:55:36.858 [info] Extension installed successfully: mooman219.rust-assist

@@ -1,0 +1,26 @@
+[2023-07-30 21:27:34.080] [error] Error: Cannot start a HubConnection that is not in the 'Disconnected' state.
+    at G._startWithStateTransitions (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/vendor.js:2:61054)
+    at G.start (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/vendor.js:2:60907)
+    at useClass.<anonymous> (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/main.js:1:539295)
+    at Generator.next (<anonymous>)
+    at r (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/main.js:1:350371)
+    at c.invoke (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/vendor.js:2:791744)
+    at Object.onInvoke (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/vendor.js:2:2169654)
+    at c.invoke (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/vendor.js:2:791684)
+    at o.run (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/vendor.js:2:787122)
+    at file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/vendor.js:2:802099
+[2023-07-30 21:27:34.094] [error] Error: Cannot start a HubConnection that is not in the 'Disconnected' state.
+    at G._startWithStateTransitions (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/vendor.js:2:61054)
+    at G.start (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/vendor.js:2:60907)
+    at useClass.<anonymous> (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/main.js:1:539295)
+    at Generator.next (<anonymous>)
+    at r (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/main.js:1:350371)
+    at c.invoke (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/vendor.js:2:791744)
+    at Object.onInvoke (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/vendor.js:2:2169654)
+    at c.invoke (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/vendor.js:2:791684)
+    at o.run (file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/vendor.js:2:787122)
+    at file:///tmp/.mount_BitwarPdOH1Z/resources/app.asar/app/vendor.js:2:802099
+[2023-07-30 21:27:34.290] [info]  Finished search indexing
+[2023-07-30 21:27:35.098] [info]  Finished search indexing
+[2023-08-03 15:51:42.846] [info]  Finished search indexing
+[2023-08-04 04:22:36.716] [info]  Finished search indexing

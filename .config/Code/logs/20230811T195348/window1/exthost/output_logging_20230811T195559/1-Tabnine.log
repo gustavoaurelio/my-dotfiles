@@ -1,0 +1,12 @@
+19:55:59 GMT-0300 (Horário Padrão de Brasília) [INFO]: spawning binary with command: /home/gustavo/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.5.27/x86_64-unknown-linux-musl/TabNine args: --print-version 
+
+19:55:59 GMT-0300 (Horário Padrão de Brasília) [INFO]: spawning binary with command: /home/gustavo/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.5.27/x86_64-unknown-linux-musl/TabNine args: --no-lsp=true --client=vscode --client-metadata clientVersion=1.81.1 pluginVersion=3.7.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=Monokai Pro (Filter Spectrum) vscode-theme-kind=Dark vscode-machine-id=c680d52ebebd02929149aa935239a02cb78b18ffebc6c4a5d4d3d7076d85e253 vscode-is-new-app-install=false vscode-session-id=ac98ac02-5af4-44ba-9c0b-553a6fbcefa01691794559140 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown vscode-inline-api-enabled=true ide-restart-counter=0 
+
+19:55:59 GMT-0300 (Horário Padrão de Brasília) [DEBUG]: capabilities resolved immediately 
+
+19:56:01 GMT-0300 (Horário Padrão de Brasília) [ERROR]: validating /home/gustavo/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.5.27/x86_64-unknown-linux-musl/TabNine timeout 
+
+20:01:48 GMT-0300 (Horário Padrão de Brasília) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+00:49:23 GMT-0300 (Horário Padrão de Brasília) [WARN]: assistant is closing 
+

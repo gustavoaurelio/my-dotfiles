@@ -1,0 +1,18 @@
+2023/08/10-20:42:18.970 20da Creating DB /home/gustavo/.config/chromium/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb since it was missing.
+2023/08/10-20:42:18.976 20da Reusing MANIFEST /home/gustavo/.config/chromium/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/10-20:42:19.296 20e7 Level-0 table #5: started
+2023/08/10-20:42:19.297 20e7 Level-0 table #5: 728 bytes OK
+2023/08/10-20:42:19.299 20e7 Delete type=0 #3
+2023/08/10-20:42:19.299 20da Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/10-20:42:21.306 20db Level-0 table #7: started
+2023/08/10-20:42:21.307 20db Level-0 table #7: 256 bytes OK
+2023/08/10-20:42:21.309 20db Delete type=0 #4
+2023/08/10-20:42:21.310 20db Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/08/10-20:42:21.310 20db Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2023/08/10-20:42:21.310 20db Compacting 1@1 + 1@2 files
+2023/08/10-20:42:21.311 20db Generated table #8@1: 6 keys, 253 bytes
+2023/08/10-20:42:21.311 20db Compacted 1@1 + 1@2 files => 253 bytes
+2023/08/10-20:42:21.313 20db compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/10-20:42:21.313 20db Delete type=2 #5
+2023/08/10-20:42:21.313 20db Delete type=2 #7
+2023/08/10-20:42:21.313 20db Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

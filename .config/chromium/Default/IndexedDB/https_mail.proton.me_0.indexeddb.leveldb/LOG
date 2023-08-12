@@ -1,0 +1,7 @@
+2023/08/10-22:16:15.269 a06c Reusing MANIFEST /home/gustavo/.config/chromium/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/10-22:16:15.269 a06c Recovering log #6
+2023/08/10-22:16:15.269 a06c Reusing old log /home/gustavo/.config/chromium/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/000006.log 
+2023/08/10-22:16:15.583 a070 Level-0 table #11: started
+2023/08/10-22:16:15.584 a070 Level-0 table #11: 696 bytes OK
+2023/08/10-22:16:15.586 a070 Delete type=0 #6
+2023/08/10-22:16:15.586 a06c Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
